@@ -1,6 +1,4 @@
 # Django Tutorial Application #
 
-This is my first Django application following the tutorial given for Practical Software Engineering
-
-Now with Travis CI
+This is my first Django application following the tutorial given for Practical Software Engineering- now with Travis CI
 
