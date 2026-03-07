@@ -2,3 +2,5 @@
 
 This is my first Django application following the tutorial given for Practical Software Engineering
 
+Now with Travis CI
+
